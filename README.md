@@ -7,12 +7,12 @@
 
 ![logo](assets/ml.jpg)
 
-This repository contains implementations of various machine learning algorithms from scratch in python. Thiimplementations are designed to be educational, offering clear insights into the workings of each algorithm.
+This repository contains implementations of various machine learning algorithms from scratch in python. This implementations are designed to be educational, offering clear insights into the workings of each algorithm.
 
 ### Algorithms
 
-- KMeans Clustering
-- Neural Network
+- [KMeans Clustering](https://github.com/christiangarcia0311/machine-learning-algorithm/blob/main/KMeans_Image_Segmentation.ipynb)
+- [Neural Network](https://github.com/christiangarcia0311/machine-learning-algorithm/blob/main/NeuralNetwork_Image_Classification.ipynb)
 - Logistic Regression
 - Linear Regression
 - K-Nearest Neighbors
